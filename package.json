@@ -1,0 +1,11 @@
+{
+  "name": "media-compressor",
+  "version": "1.0.0",
+  "description": "在线媒体压缩工具",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+} 
